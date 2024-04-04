@@ -1,3 +1,3 @@
 # go-basic
 
-HI
+HI golang
