@@ -1,3 +1,3 @@
 # go-basic
 
-HI golang
+HI golang example
